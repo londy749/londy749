@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there.I'm londy749 👋
 
-<!--
-**londy749/londy749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About Me:**
+- 🎓 2nd-year Information Security student focused on automated systems security.
+- 🐍 Passionate about Python automation, scripting for cybersecurity, and Linux.
+- 🏋️‍♂️ Part-time semi-professional athlete — discipline is my superpower.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack:**
+- **Languages:** Python (Advanced syntax), Bash (Basic scripting).
+- **Tools & OS:** Git, Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Current Focus:**
+- Learning Network Security and penetration testing fundamentals.
+- Practicing on **TryHackMe** and building automated scripts for security analysis.
+
+📫 **How to reach me:**
+- Telegram: @londy_749
